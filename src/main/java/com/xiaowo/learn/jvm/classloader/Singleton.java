@@ -1,4 +1,4 @@
-package com.xiaowo.learn.jvm;
+package com.xiaowo.learn.jvm.classloader;
 
 /**
  * Created by wubo15 on 2020/8/24.

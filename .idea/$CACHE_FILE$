@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Downloads/kafka-2.3.0-src" value="PREVIEW" />
+        <entry key="$USER_HOME$/IdeaProjects/spring-source/spring-framework" value="PREVIEW" />
+        <entry key="$USER_HOME$/learnwork/kafka/kafka-0.8.1-src" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+</project>
