@@ -1,4 +1,4 @@
-package com.xiaowo.learn.jvm.baseinfo;
+package com.xiaowo.learn.jvm.baseinfo.invoke;
 
 /**
  * Created by wubo15 on 2020/8/26.
